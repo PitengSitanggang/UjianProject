@@ -153,6 +153,7 @@
         </div>
         <div class="border-t border-white/10 mt-8 pt-6 text-center text-yellow-100/50 text-sm">
             <p>&copy; <?= date('Y') ?> Warung Sitanggang. Semua hak dilindungi. 🍜</p>
+            <p class="mt-2 text-xs opacity-75">Developed by Sitanggang | Ujian Praktik PFW</p>
         </div>
     </div>
 </footer>
